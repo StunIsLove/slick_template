@@ -1,2 +1,2 @@
-# slick_template
+# Slick template
 My free slick templates.
