@@ -1,2 +1,2 @@
 # Slick template
-My free slick templates.
+Free slick slider template.
